@@ -1,0 +1,6 @@
+test:
+  script:
+    - bash test_script.sh
+  artifacts:
+    paths:
+      - nnpdf40_nnlo_as_01180.tar.gz
