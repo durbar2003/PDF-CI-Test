@@ -1,2 +1,2 @@
 # PDF-CI-Test
-CI Test for Parton Density Functions in LHAPDF to check the PDF Values
+CI Test for Parton Distribution Functions in LHAPDF to check the PDF Values
